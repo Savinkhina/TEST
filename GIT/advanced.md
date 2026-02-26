@@ -1,7 +1,6 @@
 ## Git — продвинутый уровень
 
 🏆 Правильных ответов: 12 из 15.
-
 <img width="1000" alt="adv1" src="assets/adv1.jpg">
 <img width="1000" alt="adv2" src="assets/adv2.jpg">
 <img width="1000" alt="adv3" src="assets/adv3.jpg">
@@ -29,6 +28,7 @@
 <img width="1000" alt="adv25" src="assets/adv25.jpg">
 <img width="1000" alt="adv26" src="assets/adv26.jpg">
 <img width="1000" alt="adv27" src="assets/adv27.jpg">
+🏆 Правильных ответов: 14 из 15.
 <img width="1000" alt="adv28" src="assets/adv28.jpg">
 <img width="1000" alt="adv29" src="assets/adv29.jpg">
 <img width="1000" alt="adv30" src="assets/adv30.jpg">
